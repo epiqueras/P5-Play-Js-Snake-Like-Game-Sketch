@@ -1,4 +1,4 @@
-#Snake Like Game
+# Snake Like Game
 Trying out p5.js and p5.play.js.
 
 Sketching a snake like game.
