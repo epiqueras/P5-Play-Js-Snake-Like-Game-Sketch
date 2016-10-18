@@ -1,4 +1,6 @@
-# P5-Play-Js-Snake-Like-Game-Sketch
+#Snake Like Game
+Trying out p5.js and p5.play.js.
+
 Sketching a snake like game.
 
 Speeding up stretches the snake and separates the joints.
